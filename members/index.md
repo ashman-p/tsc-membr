@@ -9,6 +9,7 @@ The current TSC members are:
 * [Tiago Oliveira](https://github.com/tfaoliveira)
 * [John Schanck](https://github.com/jschanck)
 * [Douglas Stebila](https://github.com/dstebila)
+* [Norman Ashley](https://github.com/ashman-p)
 
 
 
